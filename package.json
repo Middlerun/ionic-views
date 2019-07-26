@@ -1,4 +1,6 @@
 {
+  "name": "ionic-views",
+  "version": "0.0.1",
   "fitbit": {
     "appUUID": "d84e4e76-0ded-40f2-98f7-f4de4dc27fc4",
     "appType": "app",
